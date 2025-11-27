@@ -38,8 +38,11 @@ recharging rates at charging stations
 vehicles discharging rate
 
 weight factors
+
 original travel times (for Uber instances -- need to be multiplied by a factor of 2 to reproduce results)
 
 #solutions 
+
 Solution for uber dataset
+
 Instance names: <u><numvehicles>-<numcustomers>-<minimum end battery ratio levels>-<number of visits per station (if >1)>
