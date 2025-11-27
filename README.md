@@ -1,4 +1,7 @@
 #README File for e-ADARP instances and solutions
+Benchmark Instances from
+Bongiovanni, C., Kaspi, M., & Geroliminis, N. (2019). The electric autonomous dial-a-ride problem. Transportation Research Part B: Methodological, 122, 436-456.
+
 Instance names: <a/u><numvehicles>-<numcustomers>-<minimum end battery ratio levels>
 
 All instances have the following format:
